@@ -1,0 +1,14 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1712179152
+omnisharp.json::JSON::-1::1698995706::0::1::::<><>::
+::res://Resources/::1712174147
+class.csv::Translation::2640027284576341460::1712168044::1712174147::1::::<><>::
+class.DESCRIPTION .translation::OptimizedTranslation::9189068100978658974::1712174147::0::1::::<><>::
+class.JOBNAME .translation::OptimizedTranslation::6249965154510729340::1712174147::0::1::::<><>::
+class.SKILLS.translation::OptimizedTranslation::2897172075487265017::1712174147::0::1::::<><>::
+::res://Scenes/::1712178710
+ChoosingJob.tscn::PackedScene::2224374336462261388::1712178710::0::1::::<><>::res://Scripts/ChoosingJobManager.cs
+::res://Scripts/::1712174079
+ChoosingJobManager.cs::CSharpScript::-1::1712178758::0::1::::<>CanvasLayer<>::
+::res://Sprites/::1712174154
+icon.svg::CompressedTexture2D::2779893939798244000::1712165081::1712174154::1::::<><>::

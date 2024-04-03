@@ -1,0 +1,17 @@
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/bin/Debug/RPGJobSystem.deps.json
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/bin/Debug/RPGJobSystem.runtimeconfig.json
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/bin/Debug/RPGJobSystem.dll
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/bin/Debug/RPGJobSystem.pdb
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/obj/Debug/RPGJobSystem.csproj.AssemblyReference.cache
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/obj/Debug/RPGJobSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/obj/Debug/RPGJobSystem.AssemblyInfoInputs.cache
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/obj/Debug/RPGJobSystem.AssemblyInfo.cs
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/obj/Debug/RPGJobSystem.csproj.CoreCompileInputs.cache
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/obj/Debug/RPGJobSystem.csproj.CopyComplete
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/obj/Debug/RPGJobSystem.dll
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/obj/Debug/refint/RPGJobSystem.dll
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/obj/Debug/RPGJobSystem.pdb
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/obj/Debug/RPGJobSystem.genruntimeconfig.cache
+/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/.godot/mono/temp/obj/Debug/ref/RPGJobSystem.dll
