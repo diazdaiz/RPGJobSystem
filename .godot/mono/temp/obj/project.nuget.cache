@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "2Wd5jhPUxcAxAWc5d44ZTD1DppGOtMN2mAxlUTJYisa+KkA+ILIyhSUVgxy4D254uZQEzHtG6b5kxOdWxnjzWQ==",
+  "dgSpecHash": "FY336nEvMbdcteqO50rOvtQm2IZLvo5PuodC+UAY3ckE/iq+OZFoaSu2VS0CT+T5ZVji+it/Gdge2XcfQmgYZg==",
   "success": true,
   "projectFilePath": "/home/diazdaiz/Desktop/Diaz/Ikadev/GodotProjects/RPGJobSystem/RPGJobSystem.csproj",
   "expectedPackageFiles": [
     "/home/diazdaiz/.nuget/packages/godot.sourcegenerators/4.2.1/godot.sourcegenerators.4.2.1.nupkg.sha512",
     "/home/diazdaiz/.nuget/packages/godotsharp/4.2.1/godotsharp.4.2.1.nupkg.sha512",
-    "/home/diazdaiz/.nuget/packages/godotsharpeditor/4.2.1/godotsharpeditor.4.2.1.nupkg.sha512",
     "/home/diazdaiz/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
-    "/home/diazdaiz/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+    "/home/diazdaiz/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.28/microsoft.netcore.app.runtime.linux-x64.6.0.28.nupkg.sha512",
+    "/home/diazdaiz/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/diazdaiz/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.28/microsoft.aspnetcore.app.runtime.linux-x64.6.0.28.nupkg.sha512"
   ],
   "logs": []
 }
